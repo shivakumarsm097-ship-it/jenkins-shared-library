@@ -1,0 +1,5 @@
+Build report for team: {{TEAM}}
+Job name    : {{JOB}}
+Build number: {{BUILD}}
+Status      : {{STATUS}}
+Time        : {{TIME}}
